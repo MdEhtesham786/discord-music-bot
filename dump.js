@@ -6,6 +6,12 @@
 // git remote add origin https://github.com/MdEhtesham786/discord-music-bot.git
 // git push -u origin main
 // nahi
+// first do git pull
+// git pull
+// git add .
+// git commit -m 'kucch bhi'
+// git push
+
 //abcd
 //efgh
 //hijkklmno
