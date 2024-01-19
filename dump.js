@@ -5,4 +5,4 @@
 // git branch -M main
 // git remote add origin https://github.com/MdEhtesham786/discord-music-bot.git
 // git push -u origin main
-// lund
+// lund mera bada hai
